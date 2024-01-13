@@ -300,6 +300,7 @@ nav >ul li a{
     .feature-level, .facts-section
     {
         padding: 20px;
+        overflow: hidden;
     }
     nav{
         flex-direction: column;
