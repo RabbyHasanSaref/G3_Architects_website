@@ -263,6 +263,7 @@ nav >ul li a{
     .feature-description,
     .feature-level, .facts-section{
         padding: 20px;
+        overflow: hidden;
     }
     nav, 
     .feature-container,
