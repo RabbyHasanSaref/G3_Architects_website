@@ -242,7 +242,7 @@ nav >ul li a{
 
 /* footer section style */
 .footer-section{
-    height: 50px;
+    height: 80px;
     background: #FFF4E7;
     padding: 20px 0px 0px 0px;
     margin-top: 100px;
@@ -327,5 +327,8 @@ nav >ul li a{
         grid-template-columns: repeat(3, 1fr);
         margin-left: 20px;
         margin-right: 20px;
+    }
+     .footer-section{
+        height: 50px;
     }
 }
